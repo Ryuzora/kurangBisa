@@ -4,7 +4,7 @@ using namespace std;
 int i,g, sq,hasil;
 
 int main(){
-  cout << "jumlah kandang per baris" << endl;
+  cout << "masukan jumlah kandang per baris" << endl;
   cin >> sq;
   sq = sq*sq;
   cout << "total keseluruhan kandang: " << sq << endl;
