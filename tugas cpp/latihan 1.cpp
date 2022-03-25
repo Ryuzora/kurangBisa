@@ -10,3 +10,4 @@ int main(){
     }
     return 0;
 }
+// link soal nomor 1 https://www.cs.jhu.edu/~jorgev/cs106/Creating_algorithms.pdf
